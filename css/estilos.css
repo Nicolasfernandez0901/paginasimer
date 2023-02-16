@@ -1,0 +1,22 @@
+:root{
+    --claro: #2accff;
+    --medio: #5857da;
+    --oscuro: #7b00bf; 
+
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 1.6rem;
+    font-family: 'Comfortaa', cursive;
+}
+.titulo{
+    text-align: center;
+    font-size: 3.8rem;
+    color: var(--claro);
+}
+.titulo span{
+    font-size: 2rem;
+    color: var(--oscuro);
+}
