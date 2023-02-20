@@ -8,6 +8,7 @@ html{
     font-size: 62.5%;
 }
 body{
+    
     font-size: 1.6rem;
     font-family: 'Comfortaa', cursive;
 }
@@ -20,3 +21,6 @@ body{
     font-size: 2rem;
     color: var(--oscuro);
 }
+.icon-user-tie:before {
+    content: "\e976";
+  }
